@@ -28,21 +28,21 @@ Analizar y delimitar una funcionalidad antes de diseñar clases o escribir códi
 
 ### 1.1 Tres hechos explícitos
 
-1. COMPLETAR
-2. COMPLETAR
-3. COMPLETAR
+1. COMPLETAR Existe un Entrenador
+2. COMPLETAR Los entrenadores se encuentran con criaturas salvajes
+3. COMPLETAR Los entrenadores intentan capturar a las criaturas
 
 ### 1.2 Tres ambigüedades convertidas en preguntas
 
 | N.º | Expresión ambigua | Pregunta que debe responder el cliente |
 |---:|---|---|
-| 1 | COMPLETAR | COMPLETAR |
-| 2 | COMPLETAR | COMPLETAR |
+| 1 | Criatura Salvaje | En que lugar en especifico se encuentran |
+| 2 | Intentar capturar a la criatura | Como se sabe si tengo pokeballs |
 | 3 | COMPLETAR | COMPLETAR |
 
 ### 1.3 Supuesto provisional
 
-**Supuesto:** COMPLETAR  
+**Supuesto:** Distancia 50 mts  
 **Por qué es provisional:** COMPLETAR  
 **Cómo podría confirmarse:** COMPLETAR
 
@@ -56,7 +56,7 @@ Fórmula orientadora:
 
 ### 2.1 Actor, necesidad y objetivo
 
-**Actor principal:** COMPLETAR  
+**Actor principal:** COMPLETAR Entrenadores 
 **Necesidad:** COMPLETAR  
 **Objetivo reescrito:** COMPLETAR
 
